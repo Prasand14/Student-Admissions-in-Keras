@@ -1,0 +1,10 @@
+Mini Project: Student Admissions in Keras
+So, finally we're ready to analyze a whole dataset on Keras. We'll analyze the following dataset of student admissions at UCLA:
+'http://www.ats.ucla.edu/stat/data/binary.csv'
+
+Studying the data
+The dataset has the following columns:
+
+Student GPA (grades)
+Score on the GRE (test)
+Class rank (1-4)
